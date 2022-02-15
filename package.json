@@ -30,5 +30,8 @@
     "testPathIgnorePatterns": [
       "generator-exercise/"
     ]
+  },
+  "dependencies": {
+    "npm-run-path": "^5.1.0"
   }
 }
